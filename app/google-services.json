@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753884343299",
+    "project_id": "talk-bbe5c",
+    "storage_bucket": "talk-bbe5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753884343299:android:50fe0e922d4f4c0ca7f236",
+        "android_client_info": {
+          "package_name": "com.sarkar.talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753884343299-k6nj4rpl67nmb5svkt4q5bp4umonujvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-uD4EtPFvQZpTx2WOmhY8OovgMYbC9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753884343299-k6nj4rpl67nmb5svkt4q5bp4umonujvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
